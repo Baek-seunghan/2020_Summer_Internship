@@ -39,4 +39,6 @@
 
 ## Synthesis (07/27)
 
+[1. Synthesis](https://www.dropbox.com/s/s7t6vjjuzgrdolo/Synthesis.pptx?dl=0)
+
 ## Back-end (07/29)
